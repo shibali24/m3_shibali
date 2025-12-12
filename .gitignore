@@ -1,0 +1,32 @@
+.DS_Store
+Thumbs.db
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Audio / Video Outputs 
+*.mp3
+*.wav
+*.aiff
+*.aif
+*.flac
+*.ogg
+
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+
+# GarageBand projects
+*.band
+*.band/*
+GarageBand/
+
+# Synthesizer V
+*.svp
+
